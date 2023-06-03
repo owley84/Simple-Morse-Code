@@ -1,7 +1,6 @@
-# Simple-Morse-Code
-Simple Morse Code (Encode and Decode)
+# List of Morse Code and Text
 
-List of Morse Code and Text
+
     A: .-
     B: -...
     C: -.-.
@@ -40,5 +39,6 @@ List of Morse Code and Text
     9: ----.
     space bar: /
 
-Output of Program
+# Output of Program
+
 ![image](https://github.com/owley84/Simple-Morse-Code/assets/86147982/d4e22991-cab4-418c-89a7-7c565b6c2e84)
